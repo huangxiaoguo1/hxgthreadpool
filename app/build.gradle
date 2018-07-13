@@ -26,5 +26,6 @@ dependencies {
     })
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:26.0.0-alpha1'
-    compile project(':lib_threadpool')
+    compile 'com.github.huangxiaoguo1:hxgthreadpool:1.0.0'
+//    compile project(':lib_threadpool')
 }
